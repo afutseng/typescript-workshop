@@ -1,0 +1,22 @@
+{
+  "name": "typescript-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afutseng/typescript-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afutseng/typescript-workshop/issues"
+  },
+  "homepage": "https://github.com/afutseng/typescript-workshop#readme",
+  "dependencies": {
+    "@types/jquery": "^2.0.33"
+  }
+}
